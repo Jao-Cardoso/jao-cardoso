@@ -1,7 +1,5 @@
 ### Hi there! I'm João 🤚
 
-### 👨‍💻 About Me
-
 I'm a Full-stack Developer with 3 years of experience and a strong passion for frontend development.
 Currently pursuing a postgraduate degree in **Front-End Engineering** 😁
 
