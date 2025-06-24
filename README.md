@@ -1,5 +1,12 @@
 ### Hi there! I'm João 🤚
 
+### 👨‍💻 About Me
+
+I'm a Full-stack Developer with 3 years of experience and a strong passion for frontend development.
+Currently pursuing a postgraduate degree in **Front-End Engineering** 😁
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-ian-cruz-cardoso-2a4553185/)
 
 ![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jao-cardoso&show_icons=true&theme=algolia)
@@ -18,13 +25,6 @@
   <img align="center" alt="TAILWIND" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img align="center" alt="Boostrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </div><br/>
-
----
-
-### 👨‍💻 About Me
-
-I'm a Full-stack Developer with 3 years of experience and a strong passion for frontend development.
-Currently pursuing a postgraduate degree in **Front-End Engineering** 😁
 
 ---
 
