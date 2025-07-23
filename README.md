@@ -7,7 +7,7 @@ Currently pursuing a postgraduate degree in **Front-End Engineering** 😁
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-ian-cruz-cardoso-2a4553185/)
 
-![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jao-cardoso&show_icons=true&theme=algolia)
+![Joao's GitHub Stats](https://github-readme-stats.vercel.app/api?username=jao-cardoo&show_icons=true&theme=algolia)
 
 ---
 
